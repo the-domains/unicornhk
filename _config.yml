@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: UnicornHK
 opengraph:
   image: null
   type: null
@@ -20,21 +18,23 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.8178257758263499
+  saturation: 0.9265233
   brandStrength: 0.9820789
-  lightness: 0.8688806572463363
+  lightness: 0.8261649
   brandColors:
     - '#FEFEFE'
     - '#FD4746'
     - '#000000'
     - '#DAAC3D'
     - '#55D037'
-  rhythmicContrast: 0.6295053141657263
+  rhythmicContrast: 0.7204301
 typography_spectrum: 0.3548387
+layout_spectrum: 0.6702509
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.6702509
-favicon: null
-name: UnicornHK
+analytics:
+  twitter: null
+  google: null
+  facebook: null
