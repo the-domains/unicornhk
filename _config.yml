@@ -1,28 +1,40 @@
-name: UnicornHK
-favicon: null
-layout_spectrum: 0.08595663076266646
-typography_spectrum: 0.7301535543520004
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.5977631551213562
-  lightness: 0.8688806572463363
-  saturation: 0.8178257758263499
-  rhythmicContrast: 0.6295053141657263
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.8178257758263499
+  brandStrength: 0.9820789
+  lightness: 0.8688806572463363
+  brandColors:
+    - '#FEFEFE'
+    - '#FD4746'
+    - '#000000'
+    - '#DAAC3D'
+    - '#55D037'
+  rhythmicContrast: 0.6295053141657263
+typography_spectrum: 0.3548387
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.6702509
+favicon: null
+name: UnicornHK
