@@ -1,41 +1,41 @@
-name: UnicornHK
-favicon: null
-layout_spectrum: 0.6702509
-typography_spectrum: 0.3960573
+title: 'Buy anything '
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: 'Buy anything '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.06630825
+  brandStrength: 0.875
+  lightness: 0.874552
   brandColors:
     - '#FEFEFE'
     - '#FD4746'
     - '#000000'
     - '#DAAC3D'
     - '#55D037'
-  brandStrength: 0.875
-  lightness: 0.874552
-  saturation: 0.875
   rhythmicContrast: 0.75
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: UnicornHK
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.3960573
+layout_spectrum: 0.6702509
