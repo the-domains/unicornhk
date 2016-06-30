@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.06630825
-  brandStrength: 0.875
-  lightness: 0.874552
+  saturation: 0.8351254
+  brandStrength: 0.4910394
+  lightness: 0.5250896
   brandColors:
     - '#FEFEFE'
     - '#FD4746'
     - '#000000'
     - '#DAAC3D'
     - '#55D037'
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.8870968
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: UnicornHK
 favicon: null
+name: UnicornHK
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.3960573
-layout_spectrum: 0.6702509
+typography_spectrum: 0.2759857
+layout_spectrum: 1
