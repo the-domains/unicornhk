@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Buy anything ]]></title>
+        <description><![CDATA[Buy anything ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Jul 2016 07:44:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Unicorn Lights]]></title>
+            <description><![CDATA[<article><h1>Unicorn Lights</h1><p>Once a unicorn, always a unicorn</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9184b136e9b27568aadb19561ff5ec4d/croprotate.jpg?cropheight=752&cropwidth=750&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8289b79f-b80d-42a5-b8d1-41b6339a54a3.jpg&x=0&y=290"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8289b79f-b80d-42a5-b8d1-41b6339a54a3.jpg</link>
+            <guid isPermaLink="false">e8c5b326-7584-40f4-99cb-c9409040520e</guid>
+            <pubDate>Sat, 02 Jul 2016 07:44:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
