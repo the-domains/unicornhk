@@ -1,5 +1,8 @@
-title: 'Buy anything '
-purpose: []
+name: UnicornHK
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.2759857
+title: HKUnicornHK
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8351254
-  brandStrength: 0.4910394
-  lightness: 0.5250896
   brandColors:
     - '#FEFEFE'
     - '#FD4746'
     - '#000000'
     - '#DAAC3D'
     - '#55D037'
+  brandStrength: 0.4910394
+  lightness: 0.5250896
+  saturation: 0.8351254
   rhythmicContrast: 0.8870968
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: UnicornHK
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.2759857
-layout_spectrum: 1
+purpose: []
